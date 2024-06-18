@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/07. Maps/\uD558\uC218\uAD6C/Mesh/sewer_CP.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
